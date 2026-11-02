@@ -1,6 +1,8 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Building+with+.NET+%26+React)](https://git.io/typing-svg)
 
+<div class="tenor-gif-embed" data-postid="13281232077995545158" data-share-method="host" data-aspect-ratio="1.39888" data-width="100%"><a href="https://tenor.com/view/big-screen-screen-computer-monitor-computer-pc-gif-13281232077995545158">Big Screen Computer Monitor GIF</a>from <a href="https://tenor.com/search/big+screen-gifs">Big Screen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## Hi there 👋
 
 <!--
