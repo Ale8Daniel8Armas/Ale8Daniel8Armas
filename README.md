@@ -2,10 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Building+with+.NET+%26+React)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media.tenor.com/7dY0VhQvYvAAAAAd/big-screen-computer-monitor.gif" width="800" alt="Big Screen Computer Monitor">
+  <img src="./assets/monitor.gif" width="400" alt="Computer Monitor Animation">
 </p>
-
-https://tenor.com/es-419/view/big-screen-screen-computer-monitor-computer-pc-gif-13281232077995545158
 
 ## Hi there 👋
 
