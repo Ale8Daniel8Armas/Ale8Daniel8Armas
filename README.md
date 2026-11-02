@@ -1,5 +1,5 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Building+with+.NET+%26+React)](https://git.io/typing-svg)
 
 ## Hi there 👋
 
