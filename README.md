@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Building+with+.NET+%26+React)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="./assets/monitor.gif" width="900" alt="Computer Monitor Animation">
+  <img src="./assets/monitor.gif" width="900" height="300" alt="Computer Monitor Animation">
 </p>
 
 ## Hi there 👋
