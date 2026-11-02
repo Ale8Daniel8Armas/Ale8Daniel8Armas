@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0C2A47&center=true&vCenter=true&width=600&lines=Hi+I+am+AlejoDev88;A+Sofware+Developer;And+Ai+Development;Nice+to+meet+you)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="./assets/monitor.gif" width="1000" height="400" alt="Computer Monitor Animation">
 </p>
 
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1500&color=0C2A47&center=true&vCenter=true&width=600&lines=Hi+I+am+AlejoDev88;A+Sofware+Developer;And+Ai+Development;Nice+to+meet+you)](https://git.io/typing-svg)
 
 <!--
 **Ale8Daniel8Armas/Ale8Daniel8Armas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
