@@ -1,5 +1,4 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;Building+with+.NET+%26+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0C2A47&center=true&vCenter=true&width=600&lines=Hi+I+am+AlejoDev88;A+Sofware+Developer;And+Ai+Development;Nice+to+meet+you)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="./assets/monitor.gif" width="1000" height="400" alt="Computer Monitor Animation">
