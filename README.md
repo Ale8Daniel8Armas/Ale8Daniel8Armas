@@ -54,10 +54,10 @@
 
 <p align="center">
   <a href="https://github.com/Ale8Daniel8Armas/ChatMultisala">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=ChatMultisala&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=ChatMultisala&theme=algolia&hide_border=true" />
   </a>
   <a href="https://github.com/Ale8Daniel8Armas/CYHBA_APP">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=CYHBA_APP&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=CYHBA_APP&theme=algolia&hide_border=true" />
   </a>
 </p>
 
@@ -79,6 +79,7 @@
   </a>
 </p>
 
+<br> 
 
 <p align="center">
   <img
@@ -87,3 +88,34 @@
     width="90%"
   />
 </p>
+
+<br> 
+
+# Contact Me :
+
+<p align="center">
+  <img height="320" width="450" align="right" alt="Let's connect GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+</p>
+
+Let's connect! 👋
+
+I'm always open to connecting with developers, collaborating on interesting projects, sharing ideas, and exploring new opportunities.
+
+Whether you want to discuss software development, AI, technology, or simply exchange knowledge, feel free to reach out!
+
+<br/>
+
+<a href="mailto:danielalejandroarmasrobles@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/alejo88">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Ale8Daniel8Armas">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/d_alejo88/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br clear="all"/>
