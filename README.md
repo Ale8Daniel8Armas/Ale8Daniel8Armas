@@ -16,7 +16,6 @@
 - 🌱 I’m continuously learning Software Architecture, Clean Code, SOLID principles, Design Patterns and DevOps.
 - 👯 I’m looking to collaborate on your open source projects
 - 🧠 I’m interested in Backend Engineering, Microservices, REST APIs and scalable software solutions
-- 👯 I’m looking to collaborate on open-source projects and innovative software solutions
 - 💬 Ask me about Continuous Improvement
 - 🛠️ I enjoy exploring new technologies and applying AI throughout the software development lifecycle
 - 📫 Feel free to connect with me for collaboration, networking or exciting opportunities
