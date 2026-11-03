@@ -8,7 +8,7 @@
 
 </div>
 
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+## <picture><img src = "https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width =40px></picture> **About me**
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width = 300px></picture>
 
