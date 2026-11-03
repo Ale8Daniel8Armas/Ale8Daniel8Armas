@@ -38,3 +38,31 @@
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,vercel" height="42" alt="Docker, Google Cloud, GitHub Actions, Vercel"/> |
 | **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=postman,figma,vscode,visualstudio,pycharm,wordpress,n8n" height="42" alt="Postman, Figma, VS Code, Visual Studio, PyCharm, WordPress, n8n"/> |
 | **Version Control & Project Management** | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira" height="42" alt="Git, GitHub, Bitbucket, Jira"/> |
+
+<br> 
+
+## Projects
+
+<p align="center">
+  <a href="https://github.com/AlejoDev88/REPO-ESCUELA-ALINAMBI">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=REPO-ESCUELA-ALINAMBI&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AlejoDev88/REPO-ECOCLEANER">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=REPO-ECOCLEANER&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AlejoDev88/REPO-CHAT-MULTISALA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=REPO-CHAT-MULTISALA&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AlejoDev88/REPO-AGRICULTURAL-EDGE-AI">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=REPO-AGRICULTURAL-EDGE-AI&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-web-alejo.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://github.com/AlejoDev88?tab=repositories">📂 All Repositories</a>
+</p>
+
