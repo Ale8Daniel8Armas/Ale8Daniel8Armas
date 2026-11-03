@@ -45,10 +45,10 @@
 
 <p align="center">
   <a href="https://github.com/Ale8Daniel8Armas/Escuela-AlinambiV2">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=Escuela-AlinambiV2&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=Escuela-AlinambiV2&theme=algolia&hide_border=true" />
   </a>
   <a href="https://github.com/Ale8Daniel8Armas/EcoCleaner-System">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=EcoCleaner-System&theme=date_night&hide_border=true" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=EcoCleaner-System&theme=algolia&hide_border=true" />
   </a>
 </p>
 
