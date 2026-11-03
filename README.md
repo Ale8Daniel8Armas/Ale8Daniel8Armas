@@ -31,8 +31,8 @@
 | **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,js,ts,dart" height="42" alt="Java, Python, C#, C++, JavaScript, TypeScript, Dart"/> |
 | **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,angular" height="42" alt="HTML, CSS, Sass, Tailwind, Bootstrap, React, Angular"/> |
 | **Backend Development** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,flask" height="42" alt="Node.js, Express, Spring Boot, .NET, Flask"/> |
-| **Mobile Development** | <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="42" alt="Flutter, Dart, Firebase"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite" height="42" alt="MongoDB, MySQL, PostgreSQL, Firebase, SQLite"/> |
+| **Mobile Development** | <img src="https://skillicons.dev/icons?i=flutter,dart,react" height="42" alt="Flutter, Dart, Firebase"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" height="42" alt="MongoDB, MySQL, PostgreSQL, Firebase, SQLite"/> |
 | **Artificial Intelligence & Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" height="42" alt="TensorFlow, PyTorch, Python"/> |
 | **Testing & Quality Assurance** | <img src="https://skillicons.dev/icons?i=jest,selenium" height="42" alt="Jest, Selenium"/> |
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,vercel" height="42" alt="Docker, Google Cloud, GitHub Actions, Vercel"/> |
