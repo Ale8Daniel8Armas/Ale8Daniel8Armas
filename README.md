@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="./assets/monitor.gif" width="1000" height="400" alt="Computer Monitor Animation">
 </p>
 
@@ -8,40 +8,40 @@
 
 </div>
 
-## <picture><img src = "https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width =40px></picture> **About me**
+## 👨‍💻 About Me
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width = 300px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="300px"></picture>
 
-- 🔭 I’m currently building personal projects focused on Full Stack Development and AI
+- 🔭 I’m currently building personal projects focused on Full Stack Development and AI.
 - 🌱 I’m continuously learning Software Architecture, Clean Code, SOLID principles, Design Patterns and DevOps.
-- 👯 I’m looking to collaborate on your open source projects
-- 🧠 I’m interested in Backend Engineering, Microservices, REST APIs and scalable software solutions
-- 💬 Ask me about Continuous Improvement
-- 🛠️ I enjoy exploring new technologies and applying AI throughout the software development lifecycle
-- 📫 Feel free to connect with me for collaboration, networking or exciting opportunities
-- 😄 Pronouns: Alejo88
+- 👯 I’m looking to collaborate on your open source projects.
+- 🧠 I’m interested in Backend Engineering, Microservices, REST APIs and scalable software solutions.
+- 💬 Ask me about Continuous Improvement.
+- 🛠️ I enjoy exploring new technologies and applying AI throughout the software development lifecycle.
+- 📫 Feel free to connect with me for collaboration, networking or exciting opportunities.
+- 😄 Pronouns: Alejo88.
 - ⚡ Fun fact: QA testers are my biggest challenge... and my best teachers!
 
-<br> 
+<br>
 
-## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Laptop"> My Skills
+## 🧰 My Skills
 
 | **Category** | **Technologies & Tools** |
 |---|---|
 | **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,js,ts,dart" height="42" alt="Java, Python, C#, C++, JavaScript, TypeScript, Dart"/> |
 | **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,angular" height="42" alt="HTML, CSS, Sass, Tailwind, Bootstrap, React, Angular"/> |
 | **Backend Development** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,flask" height="42" alt="Node.js, Express, Spring Boot, .NET, Flask"/> |
-| **Mobile Development** | <img src="https://skillicons.dev/icons?i=flutter,dart,react" height="42" alt="Flutter, Dart, Firebase"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" height="42" alt="MongoDB, MySQL, PostgreSQL, Firebase, SQLite"/> |
+| **Mobile Development** | <img src="https://skillicons.dev/icons?i=flutter,dart,react" height="42" alt="Flutter, Dart, React Native"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" height="42" alt="MongoDB, MySQL, PostgreSQL, Firebase, Supabase"/> |
 | **Artificial Intelligence & Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" height="42" alt="TensorFlow, PyTorch, Python"/> |
 | **Testing & Quality Assurance** | <img src="https://skillicons.dev/icons?i=jest,selenium" height="42" alt="Jest, Selenium"/> |
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,vercel" height="42" alt="Docker, Google Cloud, GitHub Actions, Vercel"/> |
 | **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=postman,figma,vscode,visualstudio,pycharm,wordpress,n8n" height="42" alt="Postman, Figma, VS Code, Visual Studio, PyCharm, WordPress, n8n"/> |
 | **Version Control & Project Management** | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira" height="42" alt="Git, GitHub, Bitbucket, Jira"/> |
 
-<br> 
+<br>
 
-## Some Projects
+## 🚀 Some Projects
 
 <p align="center">
   <a href="https://github.com/Ale8Daniel8Armas/Escuela-AlinambiV2">
@@ -66,9 +66,9 @@
   <a href="https://github.com/Ale8Daniel8Armas?tab=repositories">📂 All Repositories</a>
 </p>
 
-<br> 
+<br>
 
-### <h2>⚙️ Github stats:</h2> 
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Ale8Daniel8Armas">
@@ -79,7 +79,9 @@
   </a>
 </p>
 
-<br> 
+<br>
+
+## 🐍 Contribution Activity
 
 <p align="center">
   <img
@@ -89,15 +91,15 @@
   />
 </p>
 
-<br> 
+<br>
 
-# Contact Me :
+## 📬 Contact Me
 
 <p align="center">
-  <img height="320" width="450" align="right" alt="Let's connect GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+  <img height="320" width="400" align="right" alt="Let's connect GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </p>
 
-Let's connect! 👋
+### Let's connect! 👋
 
 I'm always open to connecting with developers, collaborating on interesting projects, sharing ideas, and exploring new opportunities.
 
