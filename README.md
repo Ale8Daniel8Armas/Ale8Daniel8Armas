@@ -44,25 +44,25 @@
 ## Projects
 
 <p align="center">
-  <a href="https://github.com/AlejoDev88/REPO-ESCUELA-ALINAMBI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=REPO-ESCUELA-ALINAMBI&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Ale8Daniel8Armas/Escuela-AlinambiV2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=Escuela-AlinambiV2&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Ale8Daniel8Armas/EcoCleaner-System">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=EcoCleaner-System&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=EcoCleaner-System&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlejoDev88/REPO-CHAT-MULTISALA">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=REPO-CHAT-MULTISALA&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Ale8Daniel8Armas/ChatMultisala">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=ChatMultisala&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/AlejoDev88/REPO-AGRICULTURAL-EDGE-AI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=REPO-AGRICULTURAL-EDGE-AI&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Ale8Daniel8Armas/CYHBA_APP">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=CYHBA_APP&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://portfolio-web-alejo.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/AlejoDev88?tab=repositories">📂 All Repositories</a>
+  <a href="https://github.com/Ale8Daniel8Armas?tab=repositories">📂 All Repositories</a>
 </p>
 
