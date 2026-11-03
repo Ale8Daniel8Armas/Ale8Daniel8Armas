@@ -48,7 +48,7 @@
     <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=Escuela-AlinambiV2&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Ale8Daniel8Armas/EcoCleaner-System">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=EcoCleaner-System&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=EcoCleaner-System&theme=date_night&hide_border=true" />
   </a>
 </p>
 
@@ -72,10 +72,10 @@
 
 <p align="center">
   <a href="https://github.com/Ale8Daniel8Armas">
-    <img height="230em" src="https://github-stats-extended.vercel.app/api?username=Ale8Daniel8Armas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="220em" src="https://github-stats-extended.vercel.app/api?username=Ale8Daniel8Armas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Ale8Daniel8Armas">
-    <img height="230em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ale8Daniel8Armas&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="220em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ale8Daniel8Armas&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
