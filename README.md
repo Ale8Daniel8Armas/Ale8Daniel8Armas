@@ -66,3 +66,19 @@
   <a href="https://github.com/Ale8Daniel8Armas?tab=repositories">📂 All Repositories</a>
 </p>
 
+<br> 
+
+### <h2>⚙️ Github stats:</h2> 
+
+<p align="center">
+  <a href="https://github.com/Ale8Daniel8Armas">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ale8Daniel8Armas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Ale8Daniel8Armas">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ale8Daniel8Armas&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ale8Daniel8Armas/Ale8Daniel8Armas/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
