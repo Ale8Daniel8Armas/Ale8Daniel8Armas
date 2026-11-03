@@ -47,8 +47,8 @@
   <a href="https://github.com/AlejoDev88/REPO-ESCUELA-ALINAMBI">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=REPO-ESCUELA-ALINAMBI&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/AlejoDev88/REPO-ECOCLEANER">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=REPO-ECOCLEANER&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Ale8Daniel8Armas/EcoCleaner-System">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejoDev88&repo=EcoCleaner-System&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
