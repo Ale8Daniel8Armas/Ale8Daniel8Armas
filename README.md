@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/Ale8Daniel8Armas/ChatMultisala">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=ChatMultisala&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Ale8Daniel8Armas/CYHBA_APP">
     <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ale8Daniel8Armas&repo=CYHBA_APP&theme=tokyonight&hide_border=true" />
