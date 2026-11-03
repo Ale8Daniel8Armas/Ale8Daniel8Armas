@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1500&color=0C2A47&center=true&vCenter=true&width=600&lines=Hi!+I+am+Daniel+Armas;A+Software+Engineer;And+AI+Developer;Nice+to+meet+you)](https://git.io/typing-svg)
 
+  <a href="https://portfolio-web-alejo.vercel.app/">Portfolio</a> 
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
@@ -41,7 +43,7 @@
 | **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=postman,figma,vscode,visualstudio,pycharm,wordpress,n8n" height="42" alt="Postman, Figma, VS Code, Visual Studio, PyCharm, WordPress, n8n"/> |
 | **Version Control & Project Management** | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira" height="42" alt="Git, GitHub, Bitbucket, Jira"/> |
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🚀 Some Projects
 
@@ -68,7 +70,7 @@
   <a href="https://github.com/Ale8Daniel8Armas?tab=repositories">📂 All Repositories</a>
 </p>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 📊 GitHub Stats
 
@@ -81,7 +83,7 @@
   </a>
 </p>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🐍 Contribution Activity
 
@@ -93,7 +95,7 @@
   />
 </p>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 📬 Contact Me
 
