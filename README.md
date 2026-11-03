@@ -82,3 +82,11 @@
 <p align="center">
   <img src="https://github.com/Ale8Daniel8Armas/Ale8Daniel8Armas/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ale8Daniel8Armas/Ale8Daniel8Armas/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
