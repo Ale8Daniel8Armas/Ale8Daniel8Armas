@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width = 400px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width = 400px></picture>
 
 - 🔭 I’m currently building personal projects focused on Full Stack Development and AI
 - 🌱 I’m continuously learning Software Architecture, Clean Code, SOLID principles, Design Patterns and DevOps.
