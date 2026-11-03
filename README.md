@@ -8,17 +8,24 @@
 
 </div>
 
-<!--
-**Ale8Daniel8Armas/Ale8Daniel8Armas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-Here are some ideas to get you started:
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently building personal projects focused on Full Stack Development and AI
+- 🌱 I’m continuously learning Software Architecture, Clean Code, SOLID principles, Design Patterns and DevOps.
+- 👯 I’m looking to collaborate on your open source projects
+- 🧠 I’m interested in Backend Engineering, Microservices, REST APIs and scalable software solutions
+- 👯 I’m looking to collaborate on open-source projects and innovative software solutions
+- 💬 Ask me about Continuous Improvement
+- 🛠️ I enjoy exploring new technologies and applying AI throughout the software development lifecycle
+- 📫 Feel free to connect with me for collaboration, networking or exciting opportunities
+- 😄 Pronouns: Alejo88
+- ⚡ Fun fact: QA testers drive me crazy!
+
+<br>
+
