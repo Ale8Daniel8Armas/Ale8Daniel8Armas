@@ -20,7 +20,21 @@
 - 🛠️ I enjoy exploring new technologies and applying AI throughout the software development lifecycle
 - 📫 Feel free to connect with me for collaboration, networking or exciting opportunities
 - 😄 Pronouns: Alejo88
-- ⚡ Fun fact: QA testers drive me crazy!
+- ⚡ Fun fact: QA testers are my biggest challenge... and my best teachers!
 
-<br>
+<br> 
 
+## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Laptop"> My Skills
+
+| **Category** | **Technologies & Tools** |
+|---|---|
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,js,ts,dart" height="42" alt="Java, Python, C#, C++, JavaScript, TypeScript, Dart"/> |
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,angular" height="42" alt="HTML, CSS, Sass, Tailwind, Bootstrap, React, Angular"/> |
+| **Backend Development** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,flask" height="42" alt="Node.js, Express, Spring Boot, .NET, Flask"/> |
+| **Mobile Development** | <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="42" alt="Flutter, Dart, Firebase"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite" height="42" alt="MongoDB, MySQL, PostgreSQL, Firebase, SQLite"/> |
+| **Artificial Intelligence & Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" height="42" alt="TensorFlow, PyTorch, Python"/> |
+| **Testing & Quality Assurance** | <img src="https://skillicons.dev/icons?i=jest,selenium" height="42" alt="Jest, Selenium"/> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,vercel" height="42" alt="Docker, Google Cloud, GitHub Actions, Vercel"/> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=postman,figma,vscode,visualstudio,pycharm,wordpress,n8n" height="42" alt="Postman, Figma, VS Code, Visual Studio, PyCharm, WordPress, n8n"/> |
+| **Version Control & Project Management** | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira" height="42" alt="Git, GitHub, Bitbucket, Jira"/> |
